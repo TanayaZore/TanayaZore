@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanaya Zore</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Fullstack Developer</h3>
 
-- 🔭 I’m currently working on **Agricultural Recommendation**
-
-- 🌱 I’m currently learning **Vue Js**
+- 🌱 I’m currently learning **Node**
 
 - 📫 How to reach me **tanayazore49@gmail.com**
 
