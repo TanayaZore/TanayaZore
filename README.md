@@ -89,47 +89,6 @@ Building scalable web & mobile applications using React.js, React Native, Node.j
 </tr>
 </table>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TanayaZore&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TanayaZore&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanayaZore&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=TanayaZore&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
-
----
-
-## 🔥 Contribution Graph
-
-<div align="center">
-
-[![Tanaya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TanayaZore&theme=tokyo-night)](https://github.com/TanayaZore)
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
