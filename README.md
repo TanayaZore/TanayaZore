@@ -1,60 +1,101 @@
-# Hi 👋, I'm Tanaya Zore
+<h1 align="center">Hi 👋, I'm Tanaya Zore</h1>
 
-### Full Stack Web & Mobile App Developer
+<h3 align="center">
+Full Stack Web & Mobile App Developer
+</h3>
 
-Passionate Full Stack Developer with experience in building scalable web and mobile applications using React.js, React Native, Node.js, TypeScript, and SQL.
-
-Currently working on enterprise-level systems including:
-- Real-time GPS tracking applications
-- RFID-based attendance & fleet systems
-- Reporting platforms used by 80+ schools
-- Web and mobile applications with live tracking features
+<p align="center">
+Building scalable web & mobile applications using React.js, React Native, Node.js and TypeScript.
+</p>
 
 ---
 
-## 🚀 Tech Stack
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%7C+React+Native+%7C+Node.js;Real-Time+Tracking+Systems;Building+Applications+Used+by+80%2B+Schools)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently working on enterprise-level web & mobile applications
+- 📍 Building real-time GPS tracking & RFID systems
+- 📊 Developing reporting platforms used by 80+ schools
+- ⚡ Improving performance using Redis caching & API optimization
+- 📱 Working on both React.js & React Native applications
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Frontend
-- React.js
-- React Native
-- TypeScript
-- JavaScript
-- Redux
-- Tailwind CSS
-- HTML5
-- CSS3
 
-### Backend
-- Node.js
-- Express.js
-- REST APIs
+<img src="https://skillicons.dev/icons?i=react,redux,ts,js,html,css,tailwind" />
 
-### Database & Tools
-- SQL
-- MySQL
-- Redis
-- Git
-- GitHub
-- Postman
-- Figma
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,redis" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TanayaZore&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanayaZore&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TanayaZore&theme=tokyonight" />
+
+</div>
 
 ---
 
 ## 💼 Current Focus
-- Scalable Full Stack Applications
-- Performance Optimization
-- Real-Time Tracking Systems
+
+- Full Stack Development
 - Mobile App Development
-- API Development
+- Real-Time Tracking Systems
+- Scalable APIs
+- Performance Optimization
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-- Email: tanayazore49@gmail.com
-- LinkedIn: www.linkedin.com/in/tanaya-zore-381960228
+<p align="left">
+<a href="https://www.linkedin.com/in/tanaya-zore-381960228" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="mailto:tanayazore49@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+</p>
 
 ---
 
-## ⚡ Fun Fact
-I enjoy building real-world systems that solve practical problems and improve user experience.
+<div align="center">
+
+⭐ Building real-world systems that solve practical problems.
+
+</div>
