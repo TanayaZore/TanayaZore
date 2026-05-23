@@ -1,13 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=240&section=header&text=Tanaya%20Zore&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20%26%20Mobile%20App%20Developer&descAlignY=55" />
 
 <h1 align="center">Hi 👋, I'm Tanaya Zore</h1>
-
-<h3 align="center">
-Full Stack Web & Mobile App Developer
-</h3>
+<h3 align="center">Full Stack Web & Mobile App Developer</h3>
 
 <p align="center">
-Building scalable web & mobile applications using React.js, React Native, Node.js, TypeScript and SQL.
+  Building scalable web & mobile applications using React.js, React Native, Node.js, TypeScript and SQL.
 </p>
 
 <p align="center">
@@ -44,19 +41,16 @@ Building scalable web & mobile applications using React.js, React Native, Node.j
 <div align="center">
 
 ### 🎨 Frontend
-
 <img src="https://skillicons.dev/icons?i=react,redux,ts,js,html,css,tailwind" />
 
 <br/><br/>
 
 ### ⚙️ Backend & Database
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,redis" />
 
 <br/><br/>
 
 ### 🧰 Tools & Platforms
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 
 </div>
@@ -76,7 +70,6 @@ Building scalable web & mobile applications using React.js, React Native, Node.j
 - Live Monitoring Dashboards
 
 </td>
-
 <td width="50%">
 
 ### 📊 Reporting Platforms
@@ -89,19 +82,18 @@ Building scalable web & mobile applications using React.js, React Native, Node.j
 </tr>
 </table>
 
+---
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/tanaya-zore-381960228" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
-
 &nbsp;&nbsp;&nbsp;
-
 <a href="mailto:tanayazore49@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
 </a>
 
 </div>
@@ -110,7 +102,7 @@ Building scalable web & mobile applications using React.js, React Native, Node.j
 
 <div align="center">
 
-### ⚡ “Building real-world systems that solve practical problems.”
+### ⚡ "Building real-world systems that solve practical problems."
 
 </div>
 
