@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=240&section=header&text=Tanaya%20Zore&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20%26%20Mobile%20App%20Developer&descAlignY=55" />
+
 
 <h1 align="center">Hi 👋, I'm Tanaya Zore</h1>
 <h3 align="center">Full Stack Web & Mobile App Developer</h3>
